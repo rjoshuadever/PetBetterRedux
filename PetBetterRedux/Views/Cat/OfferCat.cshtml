@@ -1,0 +1,41 @@
+﻿@model PetBetterRedux.Models.Cat
+
+<h2>Offer a Cat for Adoption</h2>
+<h3>We will do our very best to ensure your pet finds a great new home!</h3>
+
+@using (Html.BeginForm())
+{
+
+    <div>
+        @Html.LabelFor(m => m.ImageUrl)
+        @Html.TextBoxFor(m => m.ImageUrl)
+    </div>
+    <br />
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <br />
+    <div>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+    </div>
+    <br />
+    <div>
+        <b>Breed </b>
+        @Html.TextBoxFor(m => m.SubType)
+    </div>
+    <br />
+    <div>
+        @Html.LabelFor(m => m.Description)
+        @Html.TextBoxFor(m => m.Description)
+    </div>
+    <br />
+    <div>
+        <b>Check Here if De-Clawed</b>
+        @Html.CheckBoxFor(m => m.DeClawed)
+    </div>
+    <br />
+    <input type="submit" class="btn btn-success" value="Submit" />
+
+}

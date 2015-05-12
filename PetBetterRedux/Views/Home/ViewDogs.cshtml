@@ -1,0 +1,54 @@
+﻿@model PetBetterRedux.Models.DogViewModel
+
+<h2>Cuddly Canines</h2>
+<div class="row">
+    <div class="col-md-12">
+        <p></p>
+        <table class="table table-condensed table-responsive">
+            <thead>
+                <tr>
+                    <td> </td>
+                    <th>ID Number</th>
+                    <th>Name</th>
+                    <th>Type</th>
+                    <th>Sub-type</th>
+                    <th>House Trained</th>
+                    <th>Background</th>
+                </tr>
+            </thead>
+            @foreach (var a in Model.DogList)
+            {
+
+                <tbody>
+                    <tr>
+                        <td id="animal-image"><a href="@a.ImageUrl"><img id="thumbnail" class="img-thumbnail" src="@a.ImageUrl" alt="Animal Picture" /></a></td>
+                        <td>@a.Id</td>
+                        <td>@a.Name</td>
+                        <td>@a.Type</td>
+                        <td>@a.SubType</td>
+
+                        <td>
+                            @if (a.isHouseTrained == true)
+                            {
+                                <p>Yes</p>
+                            }
+                            else
+                            {<p>No</p>}
+                        </td>
+                   
+                        <td>@a.Description</td>
+                    
+
+                    </tr>
+
+                </tbody>
+
+              
+            }
+
+        </table>
+
+
+
+    </div>
+</div>

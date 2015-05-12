@@ -1,0 +1,43 @@
+﻿@model PetBetterRedux.Models.IndexViewModel
+
+<div class="jumbotron">
+    <h1>PetBetter</h1>
+    <p class="lead">The most humane source for your next pet adoption</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">What Makes Us Different &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+
+        <table class="table table-responsive">
+            <thead>
+                <tr>
+                    <td> </td>
+                    <td>ID Number</td>
+                    <td>Name</td>
+                    <td>Type</td>
+                    <td>Sub-type</td>
+                    <td></td>
+                </tr>
+            </thead>
+            @foreach (var a in Model.AnimalList)
+            {
+                <tbody>
+                    <tr>
+                        <td><a href="@a.ImageUrl"><img id="thumbnail" class="img-thumbnail" src="@a.ImageUrl" alt="Animal Picture" /></a></td>
+                        <td>@a.Id</td>
+                        <td>@a.Name</td>
+                        <td>@a.Type</td>
+                        <td>@a.SubType</td>
+                        @*<td>@a.Description</td>*@
+
+                        
+                    </tr>
+                </tbody>
+            }
+            </table>
+
+            
+
+        </div>
+    </div>

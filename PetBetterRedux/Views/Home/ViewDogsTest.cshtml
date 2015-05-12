@@ -1,0 +1,23 @@
+﻿@model PetBetterRedux.Models.DogViewModel
+@{
+    ViewBag.Title = "ViewDogsTest";
+}
+
+<h2>ViewDogsTest</h2>
+
+<div id="ItemContainer">
+
+    @foreach (var d in Model.DogList)
+    {
+        
+    <div id="image-container" class="row-lg-4"><img id="animal-image" src="@d.ImageUrl" alt="A Beautiful Dog" /></div>
+    <div id="name-box" class="col-lg-4"><h3>@d.Name</h3></div>
+    <div id="id-box" class="col-lg-4"><b>ID Number:</b> @d.Id</div>
+    <div id="age-box" class="col-lg-4"><b>Age:</b> @d.Age</div>
+    <div id="type-box" class="col-lg-4"><b>Type:</b> @d.Type</div>
+    <div id="subtype-box" class="col-lg-4"><b>Breed</b> @d.SubType</div>
+    <div id="background-box" class="col-lg-4"><b>Background</b> @d.Description</div>
+
+    }
+</div>
+

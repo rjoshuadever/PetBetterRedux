@@ -1,0 +1,13 @@
+﻿<h2>Offer A Pet For Adoption</h2>
+<div id="offer-pet-header">
+
+    <img id="goodbye-dog" src="~/Images/Dog-Waving-Goodbye.jpg" />
+    <h3>We know saying goodbye is the most difficult thing you'll ever do. That's why we offer our guarantee that we will find your pet a new home. You can count on us!</h3>
+</div>
+
+<h4>What kind of pet would you like to offer?</h4>
+
+<button id="offer-pet-type" class="btn btn-success">@Html.ActionLink("Dog", "OfferDog", "Dog")</button>
+<button id="offer-pet-type" class="btn btn-success">@Html.ActionLink("Cat", "OfferCat", "Cat")</button>
+<button id="offer-pet-type" class="btn btn-success">@Html.ActionLink("Bird", "OfferBird", "Bird")</button>
+<button id="offer-pet-type" class="btn btn-success">@Html.ActionLink("Other", "OfferOther", "Other")</button>

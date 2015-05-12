@@ -1,0 +1,85 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#thumbnail{
+    height:100px;
+    width:auto;
+}
+
+td#imageTd{
+    max-width:100px
+}
+
+#animal-image{
+    height:auto;
+    width: 120px;
+    float:left;
+    margin:5px;
+    
+}
+
+#offer-pet-type{
+    margin:5px;
+    padding:20px;
+    background-color:ButtonFace;
+}
+
+#offer-pet-header{
+    background-color:cadetblue;
+    max-width:65%;
+    padding: 20px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+}
+
+#goodbye-dog{
+    margin-left:18%;
+    border-top-left-radius:inherit;
+    border-top-right-radius:inherit;
+}
+
+/*#image-contianer{
+
+}
+ #type-box{
+     margin-left:30px;
+     float:left;
+ }
+
+ #subtype-box{
+     margin-left:130px;
+ }
+
+#content-box{
+    margin-top: 2px;
+}
+
+#ItemContainer{
+    float:left;
+}
+
+background-box{
+    float:left;
+}*/
