@@ -24,3 +24,31 @@ c:\users\josh\documents\visual studio 2013\Projects\PetBetterRedux\PetBetterRedu
 c:\users\josh\documents\visual studio 2013\Projects\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.csprojResolveAssemblyReference.cache
 c:\users\josh\documents\visual studio 2013\Projects\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.dll
 c:\users\josh\documents\visual studio 2013\Projects\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.pdb
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\PetBetterRedux.dll.config
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\PetBetterRedux.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\PetBetterRedux.pdb
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\Antlr3.Runtime.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\Newtonsoft.Json.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Helpers.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Mvc.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Optimization.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Razor.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.Razor.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\WebGrease.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Helpers.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Mvc.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Optimization.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.Razor.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\System.Web.WebPages.Razor.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\Antlr3.Runtime.pdb
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\bin\Newtonsoft.Json.xml
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.csproj.AssemblyReference.cache
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.csproj.CoreCompileInputs.cache
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.csproj.CopyComplete
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.dll
+C:\Users\rjosh\Source\Repos\rjoshuadever\PetBetterRedux\PetBetterRedux\obj\Debug\PetBetterRedux.pdb
